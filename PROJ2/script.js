@@ -1,6 +1,6 @@
 let student={
     id:101,
-    sname:"vishakha",
+    sname:"vishakha1",
     age:21,
     isWorking:false,
     img:"https://img.freepik.com/free-photo/young-student-woman-wearing-denim-jacket-eyeglasses-holding-colorful-folders-showing-thumb-up-pink_176532-13861.jpg"
